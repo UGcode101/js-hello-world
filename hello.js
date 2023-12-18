@@ -4,7 +4,8 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log ('Carl Sagan said \\ "We Are made of Star Stuff."');
+
 
 /*  
 Next, PLAY! 
